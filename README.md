@@ -8,11 +8,10 @@
 
 ### 🚀 Featured Project
 
-- 🛰️ **[OptiSAR Rescue — Flood Extent Mapping Prototype](https://github.com/Pratek1/OptiSAR-Rescue)**  
-  An automated satellite-based flood mapping & disaster monitoring pipeline using **Python** & **Google Earth Engine (GEE)**:
-  - **Multi-Sensor Satellite Fusion:** Combines cloud-penetrating **Sentinel-1 SAR** (radar) and **Sentinel-2** (optical) imagery for robust water segmentation.
-  - **Inundation Metrics:** Computes real-world flooded area analytics across regions of interest.
-  - **Interactive GIS:** Renders multi-layer geospatial map overlays using **Folium**.
+- 🛰️ **[OptiSAR Rescue – Flood Extent Mapping Prototype](https://github.com/Pratek1/OptiSAR-Rescue)** `Python, Google Earth Engine, Folium`
+  - Prototyped an automated flood-mapping pipeline in Python using the Google Earth Engine API across the Kaziranga AOI.
+  - Extracted permanent water bodies using Sentinel-2 optical bands and segmented radar backscatter from Sentinel-1 SAR imagery.
+  - Calculated real-world inundation metrics (≈5 sq. km) and rendered multi-layer geospatial overlays using Folium.
 
 ---
 
